@@ -8,4 +8,5 @@ echo "added a 3rd line"
 
 echo "added a 4th line"
 
+echo "hello from test"
 
