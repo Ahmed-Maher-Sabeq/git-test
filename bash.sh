@@ -8,9 +8,16 @@ echo "added a 3rd line"
 
 echo "added a 4th line"
 
+echo "hello from dev"
 echo "hello from main"
 
 echo " hello from dev"
 
 echo "hello from test"
 
+
+
+for i in {10..20}
+do
+  echo $i
+done
